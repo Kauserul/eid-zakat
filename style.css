@@ -1,0 +1,83 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    margin-top: 100px;
+}
+
+.eid-zakat{
+    background-image: linear-gradient(to right, rgba(22, 22, 22, 0.8), rgba(0,0,0,0)),url(image/eid-al-adha.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.donate-now{
+    padding-left:10% ;
+    color: white;
+    width: 500px;
+}
+
+.donate-now h1{
+    padding-top: 200px;
+    margin-bottom: 40px;
+    font-size: 60px;
+}
+
+.donate-now p{
+    margin-bottom: 40px;
+    font-size: 22px;
+}
+
+.btn{
+    margin-bottom: 200px;
+    padding: 15px 50px;
+    border-radius: 5px;
+    background-color: tomato;
+    border: none;
+    font-size: 18px;
+    color: white;
+}
+
+
+
+.market-view .main-market{
+    display: flex;
+    padding: 0 10%;
+
+}
+
+.market-view .main-market .donation{
+    padding-top: 80px;
+    margin-right: 40px;
+}
+
+.market-view .main-market .donation h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.market-view .main-market .donation p{
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.market-view .main-market .donation button a{
+    padding: 20px 50px;
+}
+
+.btn-explore{
+    padding: 15px 50px;
+    border-radius: 5px;
+    background-color: tomato;
+    border: none;
+    font-size: 18px;
+    color: white;
+}
+
+.market-view .main-market .video iframe{
+    border-radius: 5px;
+}
