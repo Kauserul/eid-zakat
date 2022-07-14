@@ -81,3 +81,32 @@ section{
 .market-view .main-market .video iframe{
     border-radius: 5px;
 }
+
+.need-suvive .importent{
+    display: flex;
+    padding: 0px 10%;
+}
+
+.need-suvive .importent .image{
+    margin-right: 100px;
+    
+}
+
+.need-suvive .importent .image img{
+    border-radius: 5px;
+}
+
+.need-suvive .importent .suvive{
+    padding-top: 70px;
+    
+}
+
+.need-suvive .importent .suvive h1{
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.need-suvive .importent .suvive p{
+    margin-bottom: 20px;
+    font-size: 19px;
+}
