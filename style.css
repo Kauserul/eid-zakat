@@ -110,3 +110,53 @@ section{
     margin-bottom: 20px;
     font-size: 19px;
 }
+
+.direct-help .title{
+    width: 700px;
+    text-align: center;
+    margin-left: 300px;
+}
+
+.direct-help .title h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.direct-help .title p{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.direct-help .help-other{
+    padding: 0 13%;
+}
+
+.direct-help .help-other .help{
+    background-color: #f3b0b8;
+    width: 400px;
+    padding: 30px 30px;
+    border-radius: 5px;
+    display: flex;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+
+.direct-help .help-other .help .des{
+    margin-left: 30px;
+}
+
+.direct-help .help-other .help .des h3{
+    font-size: 22px;
+    margin-bottom: 8px;
+}
+
+.direct-help .help-other .help .des p{
+    font-size: 18px;
+}
+
+.direct-help .help-other{
+    display: flex;
+}
+
+
