@@ -160,3 +160,18 @@ section{
 }
 
 
+.picture .wrapper-picture{
+    display: flex;
+    padding: 0 10%;
+}
+
+.picture .wrapper-picture .sinlge-pic{
+    margin-right: 50px;
+}
+
+.picture .wrapper-picture .sinlge-pic img{
+    width: 300px;
+    height: 400px;
+    border-radius: 5px;
+}
+
