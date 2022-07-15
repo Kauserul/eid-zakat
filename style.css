@@ -111,18 +111,18 @@ section{
     font-size: 19px;
 }
 
-.direct-help .title{
+.title{
     width: 700px;
     text-align: center;
     margin-left: 300px;
 }
 
-.direct-help .title h1{
+.title h1{
     font-size: 50px;
     margin-bottom: 20px;
 }
 
-.direct-help .title p{
+.title p{
     font-size: 20px;
     margin-bottom: 30px;
 }
@@ -174,4 +174,59 @@ section{
     height: 400px;
     border-radius: 5px;
 }
+
+.hand-of-charity{
+    margin-bottom: 100px;
+}
+
+
+.hand-of-charity .zakat-found{
+    padding: 0 10%;
+    display: flex;
+    margin-top: 80px;
+}
+
+.hand-of-charity .zakat-found .zakat{
+    border: 1px solid rgb(221, 220, 220);
+    width: 300px;
+    border-radius: 5px;
+    margin-right: 30px;
+}
+
+.hand-of-charity .zakat-found .zakat .wrapper-des{
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+
+.hand-of-charity .zakat-found .zakat .wrapper-des h3{
+    font-size: 22px;
+    margin: 10px 0;
+}
+
+.hand-of-charity .zakat-found .zakat .wrapper-des p{
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+
+.hand-of-charity .zakat-found .zakat .wrapper-des a{
+    font-size: 20px;
+    color: red;
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 50px 0;
+}
+
+footer .footer-des{
+    text-align: center;
+}
+
+footer .footer-des h1{
+    margin-bottom: 20px;
+}
+
+
 
